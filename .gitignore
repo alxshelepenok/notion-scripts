@@ -1,0 +1,21 @@
+# logs
+logs
+*.log
+
+# runtime data
+pids
+*.pid
+*.seed
+.DS_Store
+
+# build
+dist
+build
+*.egg-info
+
+# editors
+.idea
+.vscode
+
+# settings
+.settings.yml
